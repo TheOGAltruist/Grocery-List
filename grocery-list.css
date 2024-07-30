@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    opacity: 1.0;
+    background-color: rgb(15, 99, 155);
+    margin-bottom: 0px;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+h2 {
+    text-align: center;
+    background-color: green;
+    margin-top: 0;
+}
+
+h3 {
+    text-align: center;
+    background-color: chocolate;
+}
+
+section {
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+
+article {
+    background-color: blanchedalmond;
+    vertical-align: top;
+}
+
+li {
+    font-size: larger;
+}
